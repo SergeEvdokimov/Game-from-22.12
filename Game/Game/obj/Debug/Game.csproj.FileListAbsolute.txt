@@ -1,0 +1,12 @@
+S:\Сергей\6В\Програмирование\Game\Game\bin\Debug\Game.exe.config
+S:\Сергей\6В\Програмирование\Game\Game\bin\Debug\Game.exe
+S:\Сергей\6В\Програмирование\Game\Game\bin\Debug\Game.pdb
+S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.Form1.resources
+S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.Game_field.resources
+S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.Lose_form.resources
+S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.Properties.Resources.resources
+S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.Saccess_form.resources
+S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.exe
+S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.pdb
