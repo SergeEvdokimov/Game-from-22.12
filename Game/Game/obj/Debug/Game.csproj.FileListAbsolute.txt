@@ -10,3 +10,54 @@ S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.Sacc
 S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
 S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.exe
 S:\Сергей\6В\Програмирование\Game\Game\obj\Debug\Game.pdb
+S:\Сергей\6В\Програмирование\Важное\Game\Game\bin\Debug\Game.exe.config
+S:\Сергей\6В\Програмирование\Важное\Game\Game\bin\Debug\Game.exe
+S:\Сергей\6В\Програмирование\Важное\Game\Game\bin\Debug\Game.pdb
+S:\Сергей\6В\Програмирование\Важное\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+S:\Сергей\6В\Програмирование\Важное\Game\Game\obj\Debug\Game.Form1.resources
+S:\Сергей\6В\Програмирование\Важное\Game\Game\obj\Debug\Game.Game_field.resources
+S:\Сергей\6В\Програмирование\Важное\Game\Game\obj\Debug\Game.Lose_form.resources
+S:\Сергей\6В\Програмирование\Важное\Game\Game\obj\Debug\Game.Properties.Resources.resources
+S:\Сергей\6В\Програмирование\Важное\Game\Game\obj\Debug\Game.Saccess_form.resources
+S:\Сергей\6В\Програмирование\Важное\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+S:\Сергей\6В\Програмирование\Важное\Game\Game\obj\Debug\Game.exe
+S:\Сергей\6В\Програмирование\Важное\Game\Game\obj\Debug\Game.pdb
+C:\Users\OOP11\Desktop\Game\Game\bin\Debug\Game.exe.config
+C:\Users\OOP11\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\OOP11\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\OOP11\Desktop\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\OOP11\Desktop\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\OOP11\Desktop\Game\Game\obj\Debug\Game.Game_field.resources
+C:\Users\OOP11\Desktop\Game\Game\obj\Debug\Game.Lose_form.resources
+C:\Users\OOP11\Desktop\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\OOP11\Desktop\Game\Game\obj\Debug\Game.Saccess_form.resources
+C:\Users\OOP11\Desktop\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\OOP11\Desktop\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\OOP11\Desktop\Game\Game\obj\Debug\Game.exe
+C:\Users\OOP11\Desktop\Game\Game\obj\Debug\Game.pdb
+C:\Users\OOP11\Desktop\Game для 22.12\Game\bin\Debug\Game.exe.config
+C:\Users\OOP11\Desktop\Game для 22.12\Game\bin\Debug\Game.exe
+C:\Users\OOP11\Desktop\Game для 22.12\Game\bin\Debug\Game.pdb
+C:\Users\OOP11\Desktop\Game для 22.12\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\OOP11\Desktop\Game для 22.12\Game\obj\Debug\Game.Form1.resources
+C:\Users\OOP11\Desktop\Game для 22.12\Game\obj\Debug\Game.Game_field.resources
+C:\Users\OOP11\Desktop\Game для 22.12\Game\obj\Debug\Game.Lose_form.resources
+C:\Users\OOP11\Desktop\Game для 22.12\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\OOP11\Desktop\Game для 22.12\Game\obj\Debug\Game.Saccess_form.resources
+C:\Users\OOP11\Desktop\Game для 22.12\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\OOP11\Desktop\Game для 22.12\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\OOP11\Desktop\Game для 22.12\Game\obj\Debug\Game.exe
+C:\Users\OOP11\Desktop\Game для 22.12\Game\obj\Debug\Game.pdb
+C:\Users\OOP11\Desktop\Game для 27.12\Game\bin\Debug\Game.exe.config
+C:\Users\OOP11\Desktop\Game для 27.12\Game\bin\Debug\Game.exe
+C:\Users\OOP11\Desktop\Game для 27.12\Game\bin\Debug\Game.pdb
+C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.Form1.resources
+C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.Game_field.resources
+C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.Lose_form.resources
+C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.Saccess_form.resources
+C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.exe
+C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.pdb

@@ -19,7 +19,7 @@ namespace Game
 
         private void button1_Click(object sender, EventArgs e)
         {
-            using (Game_field gameForm = new Game_field())
+            using (Game_field gameForm = new Game_field() )
             {
                 gameForm.ShowDialog();
             }
