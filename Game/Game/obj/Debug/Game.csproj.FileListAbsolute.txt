@@ -61,3 +61,17 @@ C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.csproj.GenerateReso
 C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
 C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.exe
 C:\Users\OOP11\Desktop\Game для 27.12\Game\obj\Debug\Game.pdb
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\bin\Debug\Game.exe.config
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\bin\Debug\Game.exe
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\bin\Debug\Game.pdb
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.Form1.resources
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.Game_field.resources
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.Lose_form.resources
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.Saccess_form.resources
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.exe
+C:\Serg\Программирование\Git\Game_Guess\Game\Game\obj\Debug\Game.pdb

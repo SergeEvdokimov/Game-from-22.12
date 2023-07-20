@@ -99,6 +99,8 @@ namespace Game
         }
         static void button_symbol_click(RichTextBox wordArea, char symbol, Button cur_button, Button startButton)
         {
+            cur_button.Enabled = false;
+
             if (is_contains(current_word, symbol))
             {
                 show_text = get_new_show_text(current_word, symbol, show_text);
@@ -122,8 +124,7 @@ namespace Game
             {
                 lives--;
                 lives_image[lives].Visible = false;
-                
-                cur_button.Enabled = false;
+             
                 if (lives > 0)
                 {
                     return;
